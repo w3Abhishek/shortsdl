@@ -26,6 +26,7 @@ Here's a list of supported apps and websites:
 - Tick
 - Tiki
 - Triller
+- VigoVideo
 - VShorts
 - ZikTalk
 - Zili
