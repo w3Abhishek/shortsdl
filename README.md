@@ -4,6 +4,8 @@
 
 ShortsDL helps you to extract metadata and download videos from short video apps. Here's how to use it and the supported apps list.
 
+
+
 # How to use shortsdl?
 You can install the shortsdl library from PyPi or clone it using following command:
 
@@ -30,6 +32,8 @@ Here's a list of supported apps and websites:
 - VShorts
 - ZikTalk
 - Zili
+- Youtube shorts
+
 
 # Contact
 - Telegram: https://telegram.me/shortsdl & https://telegram.me/w3Abhishek
