@@ -25,6 +25,7 @@ Here's a list of supported apps and websites:
 - Rizzle
 - Roposo
 - Snack Video
+- Snapchat
 - Tick
 - Tiki
 - Triller
