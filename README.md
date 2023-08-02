@@ -23,6 +23,7 @@ Here's a list of supported apps and websites:
 - Moj
 - Playsee
 - Rizzle
+- Reddit
 - Roposo
 - Snack Video
 - Snapchat
