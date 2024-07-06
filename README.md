@@ -38,5 +38,4 @@ Here's a list of supported apps and websites:
 
 
 # Contact
-- Telegram: https://telegram.me/shortsdl & https://telegram.me/w3Abhishek
-- Twitter: https://twitter.com/shortsdl
+- Telegram: https://telegram.me/w3Abhishek
