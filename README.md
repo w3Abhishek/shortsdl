@@ -1,6 +1,6 @@
 ![shortsdl-1-removebg-preview.png](https://i.postimg.cc/qM1QgKhv/shortsdl-1-removebg-preview.png)
 # shortsdl - A video downloader for short video apps
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ZcDGBrfn)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shortsdl) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/shortsdl) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3ng7fQzB)  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/w3Abhishek) 
 
 ShortsDL helps you to extract metadata and download videos from short video apps. Here's how to use it and the supported apps list.
 
